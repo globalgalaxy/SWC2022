@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0xfc378c5f4dA5A36210b15B5FfE5Deeb750A62537",
   "SCAN_LINK": "https://etherscan.io/address/0xfc378c5f4dA5A36210b15B5FfE5Deeb750A62537",
   "NETWORK": {
-    "NAME": "Global Galaxy SWC 2022 V2",
-    "SYMBOL": "GXYSWC8",
-    "ID": 4
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
   "NFT_NAME": "Global Galaxy SWC 2022 V2",
   "SYMBOL": "GXYSWC8",
