@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfc378c5f4dA5A36210b15B5FfE5Deeb750A62537",
+  "SCAN_LINK": "https://etherscan.io/address/0xfc378c5f4dA5A36210b15B5FfE5Deeb750A62537",
+  "NETWORK": {
+    "NAME": "Global Galaxy SWC 2022 V2",
+    "SYMBOL": "GXYSWC8",
+    "ID": 4
+  },
+  "NFT_NAME": "Global Galaxy SWC 2022 V2",
+  "SYMBOL": "GXYSWC8",
+  "MAX_SUPPLY": 400,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/global-galaxy-swc-2022-v2",
+  "SHOW_BACKGROUND": true
+}
